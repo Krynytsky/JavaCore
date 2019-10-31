@@ -1,7 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8ac20651-0304-482a-aea8-2765d952d044" name="Default Changelist" comment="" />
+    <list default="true" id="8ac20651-0304-482a-aea8-2765d952d044" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../lesson1/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lesson1/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lesson1/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lesson1/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lesson1/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lesson1/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lesson1/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lesson1/lesson1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lesson1/out/production/lesson1/META-INF/lesson1.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lesson1/out/production/lesson1/com/lesson1/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lesson1/out/production/lesson1/com/lesson1/Screamer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lesson1/out/production/lesson1/com/lesson1/ScreamerA.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lesson1/out/production/lesson1/com/lesson1/ScreamerY.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lesson1/out/production/lesson1/com/lesson1/User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lesson1/out/production/lesson1/interfaceses/start.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lesson1/out/production/lesson1/user/User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lesson1/src/com/lesson1/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lesson1/src/com/lesson1/Screamer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lesson1/src/com/lesson1/ScreamerA.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lesson1/src/com/lesson1/ScreamerY.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lesson1/src/com/lesson1/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lesson1/src/interfaceses/start.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lesson1/src/user/User.java" beforeDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,10 +42,11 @@
     </option>
   </component>
   <component name="ProjectId" id="1SQg6F4LzEg7rU7MLAK5VWxgd9V" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Interface_Screamer" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.29125" />
@@ -114,7 +139,7 @@
       <workItem from="1571520928504" duration="127000" />
       <workItem from="1571577457338" duration="7817000" />
       <workItem from="1571599562906" duration="798000" />
-      <workItem from="1571643283210" duration="7523000" />
+      <workItem from="1571643283210" duration="8131000" />
     </task>
     <servers />
   </component>

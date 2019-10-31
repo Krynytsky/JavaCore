@@ -1,4 +1,8 @@
 package Interface;
 
-public class FirstRandArr {
+public class FirstRandArr implements Creator {
+    @java.lang.Override
+    public int creator() {
+        return 0;
+    }
 }
